@@ -1,0 +1,6 @@
+Revision history for Perl extension Acme::Tie::Handle::Blah.
+
+0.01  Wed Jun  5 11:40:41 2002
+	- original version; created by h2xs 1.21 with options
+		-AX Acme::Tie::Handle::Blah
+
